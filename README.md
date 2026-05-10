@@ -12,3 +12,15 @@ The design combines bold typography, smooth transitions, animated product showca
 It focuses on modern UI/UX principles with interactive cards, hover effects, navigation scrolling, testimonials, and promotional sections.
 
 ---
+## ✨ Features
+
+* Fully responsive design for mobile, tablet, and desktop
+* Smooth animations and transitions using Framer Motion
+* Navigate-to-section smooth scrolling effect
+* Interactive hover effects and micro-interactions
+* Animated product showcase cards
+* Testimonial slider / review carousel
+* Countdown timer for promotional offers
+* Modern glassmorphism and gradient UI styling
+* Smooth button animations and CTA interactions
+* Premium footer and newsletter subscription section
