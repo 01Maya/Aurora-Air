@@ -24,3 +24,5 @@ It focuses on modern UI/UX principles with interactive cards, hover effects, nav
 * Modern glassmorphism and gradient UI styling
 * Smooth button animations and CTA interactions
 * Premium footer and newsletter subscription section
+
+---
