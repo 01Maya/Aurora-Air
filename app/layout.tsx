@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Aurora - Premium Earbuds | Feel Every Beat',
+  title: 'Aurora - Premium Earbuds | Feel Every Beat 🎧',
   description: 'Experience premium sound quality with Aurora earbuds. Immersive audio, powerful performance, designed for your everyday flow.',
 }
 
