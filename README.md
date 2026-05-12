@@ -47,3 +47,5 @@ It focuses on modern UI/UX principles with interactive cards, hover effects, nav
 * **Tailwind CSS**
 * **Framer Motion**
 * **shadcn/ui**
+
+---
