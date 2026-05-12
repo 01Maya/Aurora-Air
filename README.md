@@ -41,3 +41,7 @@ It focuses on modern UI/UX principles with interactive cards, hover effects, nav
 ---
 
 ## 🛠️ Tech Stack
+
+
+* **Next.js**
+* **Tailwind CSS**
