@@ -30,4 +30,6 @@ It focuses on modern UI/UX principles with interactive cards, hover effects, nav
 ## 🧩 Sections Overview
 
 * **Navbar:** Sticky navigation bar with smooth section navigation and CTA button.
-* **Hero Section:** Product-focused hero banner with animated text, product preview, and action buttons.
+* **Hero Section:** Product-focused hero banner with animated text, product preview, and action buttons
+* **Collection Section:** Displays headphone variants, colors, pricing, and product selection cards.
+* **Features Section:** Highlights product specifications and premium audio features..
