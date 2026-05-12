@@ -26,3 +26,5 @@ It focuses on modern UI/UX principles with interactive cards, hover effects, nav
 * Premium footer and newsletter subscription section
 
 ---
+
+## 🧩 Sections Overview
