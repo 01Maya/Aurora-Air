@@ -12,7 +12,7 @@ The design combines bold typography, smooth transitions, animated product showca
 It focuses on modern UI/UX principles with interactive cards, hover effects, navigation scrolling, testimonials, and promotional sections.
 
 ---
-## ✨ Features
+## ✨ Features 💠
 
 * Fully responsive design for mobile, tablet, and desktop
 * Smooth animations and transitions using Framer Motion
