@@ -35,3 +35,5 @@ It focuses on modern UI/UX principles with interactive cards, hover effects, nav
 * **Features Section:** Highlights product specifications and premium audio features..
 * **Why Choose Us:** Promotional discount section with benefits, warranty, shipping, and quality cards.
 * **Testimonials Section:** Customer reviews slider showcasing user feedback and ratings.
+* **Newsletter Section:** Email subscription area for updates, offers, and announcements.
+* **Footer:** Contains branding, navigation links, company info, support links, and social icons.
