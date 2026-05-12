@@ -37,3 +37,5 @@ It focuses on modern UI/UX principles with interactive cards, hover effects, nav
 * **Testimonials Section:** Customer reviews slider showcasing user feedback and ratings.
 * **Newsletter Section:** Email subscription area for updates, offers, and announcements.
 * **Footer:** Contains branding, navigation links, company info, support links, and social icons.
+
+---
