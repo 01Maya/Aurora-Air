@@ -64,3 +64,7 @@ The preview includes animated hero sections, product cards, smooth transitions, 
 <img width="1763" height="6004" alt="Image" src="https://github.com/user-attachments/assets/eed315ca-0c2f-4167-8f92-ca968fae2f3d" />
 
 ---
+
+🌟 Credits
+
+Designed and developed with a focus on premium aesthetics, immersive interactions, and modern frontend experiences.
