@@ -65,6 +65,6 @@ The preview includes animated hero sections, product cards, smooth transitions, 
 
 ---
 
-🌟 Credits
+## 🌟 Credits
 
 Designed and developed with a focus on premium aesthetics, immersive interactions, and modern frontend experiences.
