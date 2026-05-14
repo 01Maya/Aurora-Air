@@ -104,3 +104,7 @@ http://localhost:3000
 Designed and developed with a focus on premium aesthetics, immersive interactions, and modern frontend experiences.
 
 ---
+
+## 📄 License
+
+This project is intended for educational and showcase purposes only.
