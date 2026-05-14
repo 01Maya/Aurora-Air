@@ -65,6 +65,40 @@ The preview includes animated hero sections, product cards, smooth transitions, 
 
 ---
 
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/aurora-air.git
+```
+
+### 2. Navigate to the project directory
+
+```bash
+cd aurora-air
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run the development server
+
+```bash
+npm run dev
+```
+
+### 5. Open in browser
+
+```bash
+http://localhost:3000
+```
+
+---
+
 ## 🌟 Credits
 
 Designed and developed with a focus on premium aesthetics, immersive interactions, and modern frontend experiences.
