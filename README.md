@@ -113,4 +113,4 @@ This project is intended for educational and showcase purposes only.
 
 ## ✍🏻 Author
 
-Maya Patel
+Maya Patel 🌻
