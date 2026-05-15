@@ -111,4 +111,4 @@ This project is intended for educational and showcase purposes only.
 
 ---
 
-## Author
+## ✍🏻 Author
