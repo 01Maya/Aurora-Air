@@ -110,3 +110,5 @@ Designed and developed with a focus on premium aesthetics, immersive interaction
 This project is intended for educational and showcase purposes only.
 
 ---
+
+## Author
